@@ -73,9 +73,9 @@
 
 | Project | Description | Stack / Highlights |
 | :--- | :--- | :--- |
-| **EduMind** | All-in-one educational platform integrating AI tutoring tools & accessibility modules | `React` `AI Models` `Tailwind` |
-| **SilverPulse** | Voice-assisted task automation platform designed for senior citizens | `Firebase` `Voice AI` `Web APIs` |
-| **Learnova** | Interactive learning interface built for seamless user experience | 🏆 **Best UI Award** |
+| **Synaptix** | All-in-one educational platform integrating AI tutoring tools & accessibility modules | `React` `AI Models` `Tailwind` |
+| **Silver Pulse** | Voice-assisted task automation platform designed for senior citizens | `Firebase` `Voice AI` `Web APIs` |
+| **Market Sentinel** | Stock Market Fraud detection | Selected for phase 2 National Hackathon (ZEAI Soft) |
 | **WealthPro** | Interactive algorithmic trading risk management dashboard & analytical suite | `JavaScript` `UI/UX` `Analytics` |
 
 ---

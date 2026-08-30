@@ -80,21 +80,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Shriraj-Dev-2009">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shriraj-Dev-2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shriraj-Dev-2009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shriraj-Dev-2009&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
 <div align="center">
   <sub>Engineered with precision by <b><a href="https://github.com/Shriraj-Dev-2009">@Shriraj-Dev-2009</a></b></sub>
 </div>

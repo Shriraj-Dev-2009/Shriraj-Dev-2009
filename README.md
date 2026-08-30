@@ -75,23 +75,23 @@
 | :--- | :--- | :--- |
 | **Synaptix** | All-in-one educational platform integrating AI tutoring tools & accessibility modules | `React` `AI Models` `Tailwind` |
 | **Silver Pulse** | Voice-assisted task automation platform designed for senior citizens | `Firebase` `Voice AI` `Web APIs` |
-| **Market Sentinel** | Stock Market Fraud detection | Selected for phase 2 National Hackathon (ZEAI Soft) |
+| **Market Sentinel** | Stock market fraud detection platform | 🏆 **Phase 2 National Hackathon (ZEAI Soft)** |
 | **WealthPro** | Interactive algorithmic trading risk management dashboard & analytical suite | `JavaScript` `UI/UX` `Analytics` |
 
 ---
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shriraj-Dev-2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriraj-Dev-2009&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/Shriraj-Dev-2009">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shriraj-Dev-2009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shriraj-Dev-2009&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  </a>
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shriraj-Dev-2009&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shriraj-Dev-2009&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
